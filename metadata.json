@@ -1,0 +1,6 @@
+{
+  "name": "El Salvador City Water Quality Analysis System",
+  "description": "An interactive executive dashboard, spatial map visualizer, and field registry tracking water safety and sanitation metrics of El Salvador City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
